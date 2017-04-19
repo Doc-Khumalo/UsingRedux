@@ -20,6 +20,6 @@ Radio Buttons changing the state of the booking.
 
 ### How To Run The App
 
-npm install
+`npm install
 npm start
-http://localhost:3000
+http://localhost:3000`
